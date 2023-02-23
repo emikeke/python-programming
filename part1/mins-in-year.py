@@ -1,0 +1,1 @@
+print(60*24*365) # prints # of mins in a year

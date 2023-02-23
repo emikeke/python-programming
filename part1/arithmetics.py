@@ -1,0 +1,10 @@
+x = 27
+y = 15
+add = x+y
+sub = x-y
+multiply = x*y
+divide = x/y
+print(str(x) + " + " + str(y), "=", add)
+print(str(x) + " - " + str(y), "=", sub )
+print(str(x) + " * " + str(y), "=", multiply)
+print(str(x) + " / " + str(y), "=", divide)
